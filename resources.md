@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Resources
+parent:
 nav_order: 1
 ---
 
@@ -17,6 +18,9 @@ nav_order: 1
 ### Data sources
 - [Climate Watch Data Explorer](https://www.climatewatchdata.org/data-explorer)
 - [Climate Action Tracker Data Portal](https://climateactiontracker.org/data-portal/)
+
+### Podcasts
+- [World Resources Institute](https://www.wri.org/podcasts)
 
 ### Data-science outputs, examples
 
